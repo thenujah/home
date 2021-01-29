@@ -1,0 +1,45 @@
+/*Thenujah Ketheeswaran*/
+/*ICS207*/
+/*February 2, 2021*/
+
+/*Formatting and Styling For My Index Page*/
+
+h1 
+{
+	font-family:Papyrus;
+	text-align: center;
+	border: 5px solid black;
+	color:Teal;
+	text-decoration:underline;
+}
+}
+
+h3
+{
+	font-family: Garamond;
+	color: Snow;
+	background-color:black;
+}
+
+h2
+{
+	text-decoration:underline;
+}
+}
+
+#highlight
+{
+	background-color: LightSkyBlue;
+}
+
+p
+{
+font-family: ;	
+}
+
+/*Classes*/
+
+.box
+{
+	border: 5px solid black;
+}
