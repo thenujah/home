@@ -19,9 +19,20 @@ h3
 	font-family: garamond;
 	color: black;
 	font-size:18px;
+	text-align: center;
 }
 
 h2
+{
+	text-decoration:underline;
+}
+
+h4
+{
+	text-decoration:underline;
+}
+
+h5
 {
 	text-decoration:underline;
 }

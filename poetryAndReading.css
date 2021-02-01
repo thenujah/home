@@ -4,12 +4,21 @@
 
 p 
 {
-	font-family: Garamond;	
-	font-size:20px;
+	font-family: garamond;	
+	font-size:18px;
+}
+
+body
+{
+	background-color: LightPink;
 }
 
 h1
 {
+	font-family:"Lucida Handwriting";
+	text-align: center;
+	border: 5px solid black;
+	color:Crimson;
 	text-decoration:underline;
 }
 
@@ -20,9 +29,21 @@ h3
 	text-decoration:underline;
 }
 
+h4
+{
+	font-size:20px;
+	text-decoration:underline;
+}
+
 h5
 {
 	font-size: 20px;
+	text-decoration:underline;
+}
+
+#highlight
+{
+	background-color: PaleVioletRed;
 }
 
 /*Classes*/

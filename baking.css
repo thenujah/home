@@ -4,34 +4,44 @@
 
 p 
 {
-	font-family: Garamond;	
+	font-family: garamond;	
 	font-size:18px;
 }
 
 body
 {
-	background-color: LightSalmon;
+	background-color: rgb(204, 179, 230);
 }
 
-h1 
+h1
 {
 	font-family:"Lucida Handwriting";
 	text-align: center;
 	border: 5px solid black;
-	color:rgb(255, 64, 0);
+	color:Indigo;
 	text-decoration:underline;
 }
 
 
 h3
 {
-	background-color:Tomato;
+	background-color:rgb(166, 77, 255);
 	text-decoration:underline;
+}
+
+h4
+{
+	font-size:20px;
+}
+
+h5
+{
+	font-size: 20px;
 }
 
 #highlight
 {
-	background-color: Tomato;
+	background-color: rgb(166, 77, 255);
 }
 
 /*Classes*/
@@ -39,9 +49,4 @@ h3
 .center
 {
 	text-align:center; 
-}
-
-.box
-{
-	
 }

@@ -1,0 +1,24 @@
+/*Thenujah Ketheeswaran*/
+/*ICS207*/
+/*February 2, 2021*/
+
+h1
+{
+	font-family:"Lucida Handwriting";
+	text-align: center;
+	border: 5px solid black;
+	color:DarkGreen ;
+	text-decoration:underline;
+}
+
+body
+{
+	background-color:PaleGreen;
+}
+
+h3
+{
+	background-color:lime;
+	text-decoration:underline;
+}
+
