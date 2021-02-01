@@ -9,27 +9,33 @@ h1
 	font-family:"Lucida Handwriting";
 	text-align: center;
 	border: 5px solid black;
-	color:Teal;
+	color:DarkBlue;
 	text-decoration:underline;
 }
-}
+
 
 h3
 {
-	font-family: Garamond;
-	color: Snow;
-	background-color:black;
+	font-family: garamond;
+	color: black;
+	font-size:18px;
 }
 
 h2
 {
 	text-decoration:underline;
 }
-}
+
+/*IDs*/
 
 #highlight
 {
-	background-color: LightSkyBlue;
+	background-color: white;
+}
+
+#logo
+{
+	margin: 10px 500px 10px;
 }
 
 p
@@ -42,4 +48,9 @@ font-family: ;
 .box
 {
 	border: 5px solid black;
+}
+
+.center
+{
+	text-align: center;
 }

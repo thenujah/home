@@ -1,0 +1,33 @@
+/*Thenujah Ketheeswaran*/
+/*ICS207*/
+/*February 2, 2021*/
+
+p 
+{
+	font-family: Garamond;	
+	font-size:20px;
+}
+
+h1
+{
+	text-decoration:underline;
+}
+
+
+h3
+{
+	background-color: PaleVioletRed;
+	text-decoration:underline;
+}
+
+h5
+{
+	font-size: 20px;
+}
+
+/*Classes*/
+
+.center
+{
+	text-align:center; 
+}
