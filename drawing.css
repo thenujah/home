@@ -43,13 +43,93 @@ h3
 }
 
 /*Classes*/
+/*Head Bar Positioning*/
+
+.drawing
+{
+	 margin: 5px 100px 10px;
+}
+
+.poetry
+{
+	margin:5px 25px 10px;
+}
+
+.baking
+{
+	margin:5px 50px 10px;
+}
+
+.references
+{
+	margin:5px 75px 10px;
+}
 
 .center
 {
 	text-align:center; 
 }
 
-.box
+/*Drawing Pictures*/
+
+.dimnetionsOfPictures1
 {
-	
+	width:400px;
+	height:300px;
 }
+
+.dimnetionsOfPictures2
+{
+	width:400px;
+	height:300px;
+	margin: 10px 100px 10px;
+}
+
+.dimnetionsOfPictures3
+{
+	width:400px;
+	height:300px;
+	margin:10px 225px 10px;
+}
+
+.dimnetionsOfPictures4
+{
+	width:400px;
+	height:300px;
+	margin: -300px 750px 150px;
+}
+
+/*Painting Pictures*/
+
+.cheetah
+{
+	width:300px;
+	height:200px;
+}
+
+.forest
+{
+	width:300px;
+	height:200px;
+	margin:10px 100px 10px;
+}
+
+.butterfly
+{
+	width:300px;
+	height:200px;
+	margin:5px 50px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

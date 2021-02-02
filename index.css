@@ -57,3 +57,106 @@ font-family: ;
 {
 	text-align: center;
 }
+
+/*Head Bar Positioning*/
+
+.drawing
+{
+	 margin: 5px 100px 10px;
+}
+
+.poetry
+{
+	margin:5px 25px 10px;
+}
+
+.baking
+{
+	margin:5px 50px 10px;
+}
+
+.references
+{
+	margin:5px 75px 10px;
+}
+
+
+/*Index Images in Classes*/
+
+.balloons
+{
+	margin:5px 200px 10px;
+}
+
+.blueRoses
+{
+	margin:-230px 500px 40px;
+}
+
+.butterflyHomepage
+{
+	margin:-250px 800px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

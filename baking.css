@@ -55,3 +55,85 @@ h5
 {
 	text-align:center; 
 }
+
+.dessertImages
+{
+	width: 200px;
+	height: 200px;
+}
+
+.dessertImagess
+{
+	width:200px;
+	height:220px;
+}
+
+
+/*Head Bar Positioning*/
+
+.drawing
+{
+	 margin: 5px 100px 10px;
+}
+
+.poetry
+{
+	margin:5px 25px 10px;
+}
+
+.baking
+{
+	margin:5px 50px 10px;
+}
+
+.references
+{
+	margin:5px 75px 10px;
+}
+
+/*Images Positioning*/
+
+.brownies
+{
+	width:200px;
+	height:220px;
+	margin:5px 50px 10px;
+}
+
+.cookies
+{
+	width: 200px;
+	height: 220px;
+	margin:5px 50px 10px;
+}
+
+.cupcake 
+{
+	width: 200px;
+	height: 200px;
+	margin:10px 100px 10px;
+}
+
+.cake 
+{
+	margin:10px 100px 10px;
+}
+
+.pastry 
+{
+	margin:10px 100px 10px;
+}
+
+.galaxyCupcakes
+{
+	width:400px;
+	height:350px;
+	margin:margin: 10px 500px 10px;;
+}
+
+
+
+
+
+
+
